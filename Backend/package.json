@@ -1,0 +1,16 @@
+{
+  "name": "extract-data",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^6.1.8",
+    "mongoose-extend-schema": "^1.0.0",
+    "jsonwebtoken": "^8.5.1"
+
+  }
+}
